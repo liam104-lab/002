@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Clock",
+  "description": "An offline-first web application that visualizes the current time through the orbital positions of the Sun and Moon, and displays the current lunar phase. It functions entirely on the client-side without any AI or internet dependency after initial load.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
